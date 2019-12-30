@@ -1,0 +1,82 @@
+body {
+  font-family: 'Kulim Park', sans-serif;
+  color: #f5f7f7;
+  padding: 100px;
+  margin: 0;
+}
+
+h1 {
+  color: #41aaa8;
+  margin-top: 0;
+}
+
+button {
+  background-color: #cae01f;
+  border: none;
+  color: #f5f7f7;
+  font-size: 1.1rem;
+  display: inline-block;
+  border-radius: 3px;
+  padding: 15px 85px;
+
+}
+
+.top-container {
+  background-color: #f5f7f7;
+  padding: 50px;
+  width: 600px;
+  height: 140px;
+  margin: 0;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+}
+
+.bottom-containers {
+  display: flex;
+  width: 700px;
+}
+
+.bottom-left-container {
+  background-color: #41aaa8;
+  height: 180px;
+  width: 250px;
+  padding: 50px;
+  border-bottom-left-radius: 8px;
+}
+
+.bottom-right-container {
+  background-color: #51dacf;
+  height: 180px;
+  padding: 50px;
+  width: 250px;
+  border-bottom-right-radius: 8px;
+}
+
+.bottom-h2 {
+  margin-top: 0;
+}
+
+.dollar {
+  font-size: 2em;
+  margin: 10px;
+}
+
+.per-month {
+  font-size: 0.5em;
+  color: #7ecfc0;
+}
+
+.money-back {
+  color: #cae01f;
+}
+
+.join-descriptions {
+  color: #ababab;
+  margin-bottom: 0;
+}
+
+.reasons {
+  color: #e7f3ee;
+  font-size: 1em;
+  margin-bottom: 0;
+}
